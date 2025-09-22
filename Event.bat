@@ -8,4 +8,5 @@ wevtutil cl System
 wevtutil cl Security
 
 echo Event Viewer logs cleared.
-pause
+
+
